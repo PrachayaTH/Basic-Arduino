@@ -1,0 +1,2 @@
+Demonstrates the use of analogWrite() to fade an LED.
+แสดงการใช้คำสั่ง analogWrite() เพื่อทำการกำหนดความสว่างของหลอด LED
