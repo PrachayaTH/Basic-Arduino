@@ -1,0 +1,2 @@
+Blinking an LED without using the delay() function.
+การใช้งานการกระพริบของหลอด LED โดยไม่ใช่ฟังก์ชั่น delay();
